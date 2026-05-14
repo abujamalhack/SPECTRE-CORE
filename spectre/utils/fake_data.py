@@ -1,0 +1,5 @@
+fake_names = ["ALPHA-7", "GHOST-12", "NOMAD-3", "VIPER-9"]
+fake_phones = ["+967734694194", "+44-7700-900123", "+7-495-1234567"]
+fake_countries = ["RU", "CN", "IR", "YE"]
+threat_actors = ["APT41", "FancyBear", "Lazarus", "EquationGroup"]
+fake_ips = ["10.7.3.22", "172.20.99.1", "44.235.18.9"]
