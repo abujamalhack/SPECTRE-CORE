@@ -67,13 +67,6 @@
 ---
 
 ## 🖥️ معاينة المحطة - طور `GHOST PROTOCOL`
-[ SPECTRE-CORE v4.0 ] :: Init Sequence...
-[ OK ] Biometric Signature: ABU_JAMAL_777
-[ OK ] Uplink to Cozy Bear Node: 37% packet loss (Stealth Mode)
-[ OK ] Loading Azan.WAV into DSP Filter...
-[ !! ] Warning: Execution scene is a simulation only. No real harm.
-[ READY ] « We observe, we protect, we strike if necessary. »
----
 
 ## 🛡️ إخلاء المسؤولية القانوني والأخلاقي
 
