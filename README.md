@@ -1,51 +1,111 @@
-# 𝑨𝒃𝒖 𝑱𝒂𝒎𝒂𝒍 𝑨𝒃𝒅𝒖𝒍 𝑵𝒂𝒔𝒔𝒆𝒓 𝑨𝒍-𝑺𝒉𝒂𝒘𝒌𝒊🛡️ SPECTRE-CORE: THE ULTIMATE CYBER-INTELLIGENCE ECOSYSTEM
-## ⚡ Developed by: Abu Jamal Abdul Nasser Al-Shawki (Ex-IntelBroker)
+# ════ 𝑨𝒃𝒖 𝑱𝒂𝒎𝒂𝒍 𝑨𝒃𝒅𝒖𝒍 𝑵𝒂𝒔𝒔𝒆𝒓 𝑨𝒍-𝑺𝒉𝒂𝒘𝒌𝒊 ════
+### « إرثُ النّمرِ السّيبيري »
 
-![Cybersecurity](https://img.shields.io/badge/Security-Red_Team-red?style=for-the-badge&logo=kali-linux)
-![Field](https://img.shields.io/badge/Domain-Cyber_Intelligence-blue?style=for-the-badge&logo=wireshark)
-![Expertise](https://img.shields.io/badge/Expertise-Master_Degree-gold?style=for-the-badge)
-
----
-
-## 👤 About the Architect
-**Abu Jamal Abdul Nasser Al-Shawki** is a high-tier Cybersecurity Expert and Information Security Specialist. With a **Master’s Degree in Cybersecurity and Ethical Hacking** from **St. Petersburg State University, Russia**, his academic and field journey spans over 6 years and 8 months of intensive operations.
-
-Formerly known in the underground and darknet circuits as **IntelBroker**, he has transitioned his elite skills from high-stakes breach operations into building advanced defensive and offensive security frameworks. His background includes contributions to elite global cyber-operations, providing him with unparalleled insight into system vulnerabilities and architectural security.
-
----
-
-## 🚀 System Overview: SPECTRE-CORE
-**SPECTRE-CORE** is not just a tool; it is a comprehensive **Information Gathering and Cyber-Intelligence OS**. Designed for elite practitioners, it integrates the most powerful modules for OSINT, network infiltration, and tactical surveillance.
-
-### 💎 Key Capabilities
-* **Advanced OSINT Engine:** Real-time information gathering from global databases.
-* **GSM & Telemetry Intelligence:** Precise location tracking and metadata extraction via phone number analysis.
-* **Full-Spectrum Penetration Framework:** Integrated tools for vulnerability assessment and tactical exploitation.
-* **Network Surveillance:** High-level packet analysis and traffic interception modules.
-* **Stealth Protocol:** Operates behind multi-layered proxies and encrypted tunnels to ensure total anonymity during operations.
+<div align="center">
+  
+  ![Version](https://img.shields.io/badge/Version-4.0_REDSHIFT-darkred?style=for-the-badge&logo=starship)
+  ![Classification](https://img.shields.io/badge/Classification-TOP_SECRET_//_SI_//_TK-black?style=for-the-badge&logo=spectrum)
+  ![Architecture](https://img.shields.io/badge/Engine-SPECTRE_v3.2.1-ff0044?style=for-the-badge)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=500&color=FF0044&center=true&vCenter=true&width=700&lines=«+We+do+not+break+systems..+We+reshape+them+»;«+IntelBroker+Legacy+%7C+Abu+Jamal+Al-Shawki+»;«+6+Years+of+Glacial+Cyber+Warfare+»" alt="Typing SVG" />
+  
+</div>
 
 ---
 
-## 🛠 Modules & Technical Specs
-1.  **Core-Intelligence:** Global data scraping and link analysis.
-2.  **Geo-Locator V3:** Satellite-linked location mapping for mobile targets.
-3.  **Signal-Infiltrator:** Tools for monitoring and securing wireless communications.
-4.  **Database-Breacher:** SQLi and NoSQL vulnerability scanners.
+<div align="right">
+  
+  ### 𝔄𝔟𝔲 𝔍𝔞𝔪𝔞𝔩 𝔄𝔟𝔡𝔲𝔩 𝔑𝔞𝔰𝔰𝔢𝔯 𝔄𝔩-𝔖𝔥𝔞𝔴𝔨𝔦
+  
+</div>
+
+**المشروع الأضخم عالميًا لمنصات الاستخبارات السيبرانية الهجومية/الدفاعية - إرث ٦ سنوات و٨ أشهر من الدراسة في سانت بطرسبرغ الحكومية.**
+
+> "هنا لا تُجمع المعلومات فحسب، بل تُصنع الجغرافيا الرقمية الجديدة. نظام متكامل لمحاكاة البيئات العدائية وعمليات مكافحة الابتزاز السيبراني. تحذير: هءا النظام الاقوى عالمياً ولا يتم استخدامة إلا بالأذن و م موافقه الدفع لكون النظام يستخدم بروتوكولات التتبع الحصرية الأذان الحقّ هو الشيفرة."
 
 ---
 
-## 📞 Connect with the Specialist
-For professional consultations, high-level security audits, or system deployment:
+## 🔴 [ CLASSIFIED : OPERATION GHOSTBEAR ]
 
-* **Telegram:** [@abu_jamal777](https://t.me/abu_jamal777)
-* **Instagram:** [Abu Jamal Official](https://www.instagram.com/abujamalhack?igsh=MXgyNzFpOHdydTBlYg==)
+| الوحدة | الرمز العسكري | الوصف العملياتي | الحالة |
+| :--- | :--- | :--- | :---: |
+| **Phantom-Locator** | `GRU-99B` | نظام تحديد الموقع الجغرافي الفوري عبر أقمار GLONASS المدفوعة | `ONLINE` |
+| **IntelBroker Core** | `IB-LEGACY` | محرك التسريبات القديم المُعاد بناؤه - معالجة 3 تيرا من البيانات المظلمة | `ARMED` |
+| **Azan Listener** | `AZ-WAVE` | (الوحدة الحقيقية) مستقبل ترددات إذاعية لاختراق أجهزة IMSI Catcher المزيفة | `ACTIVE` |
+| **Crimson Dossier** | `FILE-777` | البصمة الرقمية الكاملة لشبكات المبتزين مع أدوات الانتحال العكسي | `STANDBY` |
+
+---
+
+## 🥇 المؤهلات الأكاديمية والميدانية
+
+<div align="center">
+  
+| الدرجة العلمية | الجهة | التخصص | الشارة |
+| :---: | :---: | :---: | :---: |
+| **ماجستير الأمن السيبراني** | جامعة سانت بطرسبرغ الحكومية | الحرب الإلكترونية المتقدمة | `🛡️ SPSU` |
+| **بكالوريوس هندسة النظم** | جامعة سانت بطرسبرغ الحكومية | اختراق البنى التحتية | `⚙️ CORE` |
+| **عضوية الجيش الإلكتروني الروسي** | `Cozy Bear / APT29` | عمليات استباقية | `🐻 FANCY` |
+
+</div>
+
+**الاسم الحركي السابق (الدارك ويب):** **`IntelBroker`** - *مُسرب البيانات الشبح، المفقود بعد عملية "عاصفة السيبير".*
 
 ---
 
-## ⚖️ Legal Disclaimer
-*This system is designed for authorized Cybersecurity research, ethical hacking, and national security purposes. The developer, Abu Jamal, holds no responsibility for unauthorized or illegal use of this software. Always operate within the legal frameworks of your jurisdiction.*
+## ⚡️ القدرات الأساسية (للاستخدام الأخلاقي ومكافحة الابتزاز)
+
+### 1. درع مكافحة الابتزاز `ANTI-EXTORTION SHIELD`
+- **التتبع العكسي:** تتبع رقم الهاتف إلى إحداثيات GPS بالاعتماد على ثغرات SS7 المُحاكاة.
+- **التشريح الرقمي:** بناء شجرة عائلة المُبتز من صورة واحدة.
+- **أمر البدء:** `spook --trace +7XXXXXXXXXX`
+
+### 2. محطة الخرائط الحربية `WAR ROOM MAPS`
+- ربط مباشر مع واجهة OpenStreetMap بمؤثرات عسكرية.
+- إسقاط "قباب حرارية" على مواقع الأهداف ومحاكاة التدخل الجوي.
+- **تفعيل:** `cartograph --deploy crimson_void`
 
 ---
-<p align="center">
-  <b>"In the digital world, silence is the ultimate weapon." — SPECTRE-CORE</b>
-</p>
+
+## 🖥️ معاينة المحطة - طور `GHOST PROTOCOL`
+[ SPECTRE-CORE v4.0 ] :: Init Sequence...
+[ OK ] Biometric Signature: ABU_JAMAL_777
+[ OK ] Uplink to Cozy Bear Node: 37% packet loss (Stealth Mode)
+[ OK ] Loading Azan.WAV into DSP Filter...
+[ !! ] Warning: Execution scene is a simulation only. No real harm.
+[ READY ] « We observe, we protect, we strike if necessary. »
+---
+
+## 🛡️ إخلاء المسؤولية القانوني والأخلاقي
+
+> **هذا المنتج هو محاكاة رقمية بحتة.**  
+> جميع مشاهد الإعدام والعنف هي مؤثرات بصرية خادعة وهمية بالكامل لأغراض العرض المسرحي والردع النفسي.  
+> النظام لا يُستخدم في أي نشاط غير قانوني، وهو مُصمم حصريًا لـ:
+> - مكافحة الابتزاز الإلكتروني.
+> - حماية خصوصية الضحايا.
+> - تدريب رجال الأمن السيبراني على أحدث التهديدات.
+>
+> المطور **Abu Jamal** غير مسؤول عن أي إساءة استخدام.
+
+---
+
+## 🌐 تواصل مع القيادة
+
+<div dir="ltr" align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@abu_jamal777-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abu_jamal777)
+[![Instagram](https://img.shields.io/badge/Instagram-@abujamalhack-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abujamalhack?igsh=MXgyNzFpOHdydTBlYg==)
+
+</div>
+
+---
+
+<div align="center">
+  
+  *"عندما يسقط القناع، يبقى الأذان.. وعندما يشتعل الظلام، تتحرك الدببة."*
+  
+  **© 2026 SPECTRE-CORE | Abu Jamal Abdul Nasser Al-Shawki**
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabujamal%2Fspectre-core&label=OPERATIVES&labelColor=%23ff0044&countColor=%23000000)
+</div>
+
+
